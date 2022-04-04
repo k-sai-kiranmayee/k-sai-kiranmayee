@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Kiranmayee</h1>
 <h3 align="center">I'm an easy going, interactive girl working as a Senior Software Engineer using HTML, CSS, Vue Javascript</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=k-sai-kiranmayee&label=Profile%20views&color=brightgreen&style=flat" alt="K.Sai Kiranmayee" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k-sai-kiranmayee" alt="K.Sai Kiranmayee" /></a> </p>
 
